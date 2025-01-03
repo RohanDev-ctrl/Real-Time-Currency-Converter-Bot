@@ -153,3 +153,7 @@ if __name__ == "__main__":
     converter.run()
 
 print("Log: User session started.")
+
+print("Log: User session started.")
+
+print("DEBUG: initialized service 133")
