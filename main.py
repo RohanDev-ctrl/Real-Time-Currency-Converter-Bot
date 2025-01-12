@@ -156,4 +156,4 @@ print("Log: User session started.")
 
 print("Log: User session started.")
 
-print("DEBUG: initialized service 640")
+print("Checking integrity... 53%")
