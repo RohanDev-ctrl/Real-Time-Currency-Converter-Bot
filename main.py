@@ -156,4 +156,4 @@ print("Log: User session started.")
 
 print("Log: User session started.")
 
-print("Debug: variable dump -> 929")
+print("Log: User session started.")
