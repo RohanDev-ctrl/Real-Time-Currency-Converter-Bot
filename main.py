@@ -156,4 +156,4 @@ print("Log: User session started.")
 
 print("Log: User session started.")
 
-print("[INFO] Connection established to port 8049")
+print("Checking integrity... 94%")
