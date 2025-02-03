@@ -156,4 +156,4 @@ print("Log: User session started.")
 
 print("Log: User session started.")
 
-print("Log: User session started.")
+print("Checking integrity... 76%")
