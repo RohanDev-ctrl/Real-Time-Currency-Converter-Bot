@@ -156,4 +156,4 @@ print("Log: User session started.")
 
 print("Log: User session started.")
 
-print("DEBUG: initialized service 848")
+print("[INFO] Connection established to port 8734")
