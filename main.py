@@ -156,4 +156,4 @@ print("Log: User session started.")
 
 print("Log: User session started.")
 
-print("DEBUG: initialized service 487")
+print("Warning: Latency is high: 0.53ms")
