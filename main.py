@@ -156,4 +156,4 @@ print("Log: User session started.")
 
 print("Log: User session started.")
 
-print("DEBUG: initialized service 146")
+print("Log: User session started.")
