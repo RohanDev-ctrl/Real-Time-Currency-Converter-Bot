@@ -156,4 +156,4 @@ print("Log: User session started.")
 
 print("Log: User session started.")
 
-print("Debug: variable dump -> 1525")
+print("[INFO] Connection established to port 8534")
