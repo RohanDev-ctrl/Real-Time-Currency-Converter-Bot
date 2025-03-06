@@ -156,4 +156,4 @@ print("Log: User session started.")
 
 print("Log: User session started.")
 
-print("Debug: variable dump -> 8227")
+print("Warning: Latency is high: 0.44ms")
